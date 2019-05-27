@@ -1,3 +1,13 @@
+# Random Meme Generator
+
+From the Scrimba React course.
+
+No need to do too much more, maybe export the meme?
+
+---
+## Create React App Stuffs...
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
